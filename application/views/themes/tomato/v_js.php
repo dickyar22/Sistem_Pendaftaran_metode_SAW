@@ -1,0 +1,23 @@
+<!-- Javascript -->
+<script src="{BASE_URL}themes/{THEMES}/js/vendor/jquery-1.11.2.min.js"></script>
+<script src="{BASE_URL}themes/{THEMES}/js/vendor/bootstrap.min.js"></script>
+<script src="{BASE_URL}themes/{THEMES}/js/vendor/jquery.flexslider-min.js"></script>
+<script src="{BASE_URL}themes/{THEMES}/js/vendor/spectragram.js"></script>
+<script src="{BASE_URL}themes/{THEMES}/js/vendor/owl.carousel.min.js"></script>
+<script src="{BASE_URL}themes/{THEMES}/js/vendor/velocity.min.js"></script>
+<script src="{BASE_URL}themes/{THEMES}/js/vendor/velocity.ui.min.js"></script>
+<script src="{BASE_URL}themes/{THEMES}/js/vendor/bootstrap-datepicker.min.js"></script>
+<script src="{BASE_URL}themes/{THEMES}/js/vendor/bootstrap-clockpicker.min.js"></script>
+<script src="{BASE_URL}themes/{THEMES}/js/vendor/jquery.magnific-popup.min.js"></script>
+<script src="{BASE_URL}themes/{THEMES}/js/vendor/isotope.pkgd.min.js"></script>
+<script src="{BASE_URL}themes/{THEMES}/js/vendor/slick.min.js"></script>
+<script src="{BASE_URL}themes/{THEMES}/js/vendor/wow.min.js"></script>
+<script src="{BASE_URL}themes/{THEMES}/js/animation.js"></script>
+<script src="{BASE_URL}themes/{THEMES}/js/vendor/vegas/vegas.min.js"></script>
+<script src="{BASE_URL}themes/{THEMES}/js/vendor/jquery.mb.YTPlayer.js"></script>
+<script src="{BASE_URL}themes/{THEMES}/js/vendor/jquery.stellar.js"></script>
+<script src="{BASE_URL}themes/{THEMES}/js/main.js"></script>
+<script src="{BASE_URL}themes/{THEMES}/js/vendor/mc/jquery.ketchup.all.min.js"></script>
+<script src="{BASE_URL}themes/{THEMES}/js/vendor/mc/main.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+<script src="{BASE_URL}themes/{THEMES}/js/vendor/map.js"></script>
